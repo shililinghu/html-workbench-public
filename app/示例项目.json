@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "name": "我的第一个页面",
+  "blocks": [
+    {
+      "id": "b4c4yhsdtj",
+      "type": "hero",
+      "title": "让你的想法，成为页面。",
+      "body": "一个可以亲手打磨的页面。\n从文字、图片到布局，每一处都由你决定。",
+      "label": "IDEA → PAGE",
+      "items": [],
+      "src": "",
+      "alt": "图片",
+      "style": {
+        "bg": "#f0edff",
+        "color": "#252332",
+        "accent": "#7760dc",
+        "fontSize": 48,
+        "padding": 56,
+        "align": "left",
+        "columns": 3,
+        "imageWidth": 100
+      }
+    },
+    {
+      "id": "bsmws6q1xb",
+      "type": "cards",
+      "title": "从想法到作品，只差一次开始",
+      "body": "用熟悉的方式编辑，让每一处变化都清晰可见。",
+      "label": "",
+      "items": [
+        {
+          "title": "01 / 直接编辑",
+          "body": "点击文字就能修改。选中区块，调整颜色、留白和排版。"
+        },
+        {
+          "title": "02 / 与 AI 一起",
+          "body": "提出要求，查看修改方案，再把变化应用到你的页面。"
+        },
+        {
+          "title": "03 / 自由分享",
+          "body": "导出独立 HTML，打开浏览器，就能看到完整作品。"
+        }
+      ],
+      "src": "",
+      "alt": "图片",
+      "style": {
+        "bg": "#ffffff",
+        "color": "#252332",
+        "accent": "#7760dc",
+        "fontSize": 30,
+        "padding": 56,
+        "align": "left",
+        "columns": 3,
+        "imageWidth": 100
+      }
+    },
+    {
+      "id": "bsed8uh3m7",
+      "type": "quote",
+      "title": "让工具退后，让表达向前。",
+      "body": "你的第一份作品，从这里开始。",
+      "label": "",
+      "items": [],
+      "src": "",
+      "alt": "图片",
+      "style": {
+        "bg": "#252332",
+        "color": "#f9f7ff",
+        "accent": "#7760dc",
+        "fontSize": 30,
+        "padding": 56,
+        "align": "left",
+        "columns": 3,
+        "imageWidth": 100
+      }
+    }
+  ]
+}
